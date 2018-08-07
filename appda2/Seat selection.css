@@ -1,0 +1,92 @@
+.table tbody tr td.red:not(:first-child):hover{
+	background-color:grey;
+}
+.table tbody tr td.green:not(:first-child):hover{
+	background-color:grey;
+}
+.table tbody tr td.blue:not(:first-child):hover{
+	background-color:grey;
+}
+
+.red {
+	background-color:red;
+}
+.green {
+	background-color:green;
+}
+.blue {
+	background-color:blue;
+}
+.red1:hover {
+	background-color:grey;
+}
+.green1:hover {
+	background-color:grey;
+} 
+.blue1:hover {
+	background-color:grey;
+}
+#first{width:50%;
+	margin-left:25%;
+	margin-top:5px;
+	background-color:#EBF5FB;
+	border:1px solid black;
+	height:630px;
+
+}
+#second{width:45%;
+	border-right:2px solid black;
+	float:left;
+	height:575px;
+	margin-left:0%;
+	margin-top:6px;
+	
+}
+#third{ width:45%;
+	float:left;
+	height:500px;
+	margin-left:0%;
+	margin-top:6px;
+
+
+}
+h1{
+	margin-left:25px;
+	font-family:"arial";
+	font-size:2em;
+	text-align:center;
+	margin-top:0px;
+	margin-bottom:30px;
+	height:10px;
+}
+
+.table tbody tr td:not(:first-child) {
+  
+  width: 20px;
+  height:5px;
+  border-radius:3px;
+}
+
+.table tbody tr td:first-child {
+font-family:arial;
+}
+ .table {
+  border-spacing: 8px;
+  padding:1px;
+
+}
+#front
+{
+	font-size:0.9em;
+	width:40%;
+	margin-left:10%;
+	background-color:#FFE633;
+	height:1.5em;
+	padding:0.9em;
+	text-align: center;
+
+}
+#exit{
+	background-color:#ADFF2F;
+
+}

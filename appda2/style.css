@@ -1,0 +1,63 @@
+ body{
+	 background-image: url(images);
+ }
+ h1 {
+    color:black;
+    text-align: center;
+	margin-top:4px;
+	word-spacing:5px;
+}
+
+h2{  color:white;
+	  top:5px;
+}
+form{
+   width:50%;
+  margin: -70px auto;
+  padding:10px;
+}
+
+.textInput{
+     margin-top: -500px;
+     height: 28px;
+     border: 1px solid #5E6E66;
+	 font-size: 16px;
+	 padding:1px;
+	 margin:10px;
+	 margin-left:-1px; 
+	 width:100%;
+	 }
+/*.btn{margin-top:100px;
+     padding: 7px;
+     width: 100%;
+}*/
+h6
+{
+	margin-top:-10px;
+	margin-left:-10px;
+	margin-right:-10px;
+	
+}
+/*#ticket
+{
+	margin-top:40px;
+	margin-left:500px;
+	/*margin-right:300px;
+	border:1px solid black;
+	background-color:#FFDEAD;
+	width:450px;
+	height:650px;
+}*/
+#price
+{
+	margin-top:-30px;
+}
+#hh
+{
+	margin-left:100px;
+	
+}
+#data-table{
+	
+	margin-bottom:50px;
+}
